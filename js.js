@@ -1,1 +1,1 @@
-document.write( '<meta http-equiv=\"refresh\" content=\"0;URL=https://www.google.com\">' );
+document.write( '<meta http-equiv=\"refresh\" content=\"0;URL=https://www.fb.com\">' );
